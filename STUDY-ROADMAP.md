@@ -1,74 +1,68 @@
-# Japanese Study Roadmap（日语学习路线）
+# Japanese Study Roadmap（日語學習路線）
 
-This is a practical N5-to-N4 plan. Adjust the pace to the textbook lessons and weekly study time.
-这是一份从 N5 到 N4 的实践路线，可根据教材进度和每周学习时间调整。
+本路線以 JLPT N5 至 N4 為目標，並盡量配合《新標準日本語》第二版初級教材。可依每週學習時間調整進度。
 
-## Stage 1 — Kana and pronunciation（五十音与发音）
+## Stage 1 — Kana and Pronunciation（第一階段：假名與發音）
 
-- Learn hiragana and katakana（平假名、片假名）.
-- Practice dakuten, handakuten, contracted sounds, long vowels, and gemination（浊音、半浊音、拗音、长音、促音）.
-- Read aloud every day; do not rely only on romaji（每天朗读，逐步减少对罗马音的依赖）.
+- Learn hiragana and katakana（學習平假名與片假名）。
+- Practice dakuten, handakuten, yōon, sokuon, and long vowels（練習濁音、半濁音、拗音、促音與長音）。
+- Read aloud daily and gradually reduce reliance on romaji（每天朗讀，逐步減少對羅馬音的依賴）。
 
-**Checkpoint（阶段检查）:** Read common kana combinations accurately and recognize them without a chart.
+**Checkpoint（階段驗收）：** 能正確辨認並朗讀常見假名組合，不必一直對照五十音表。
 
-## Stage 2 — N5 foundations（N5 基础）
+## Stage 2 — N5 Foundations（第二階段：N5 基礎）
 
-Study the first half of the beginner textbook and core N5 topics:
+- Basic sentence patterns（基本句型）。
+- Particles は、が、を、に、へ、で、と、も、から、まで（常用助詞）。
+- です／ます forms and polite questions（禮貌體與疑問句）。
+- これ／それ／あれ and この／その／あの（指示代名詞與連體詞）。
+- あります／います（存在句）。
+- い形容詞與な形容詞的肯定、否定、過去變化。
+- Verb groups and ます／て／ない／た forms（動詞分類與常見活用）。
+- Time, dates, counters, locations, and daily routines（時間、日期、量詞、地點與日常活動）。
 
-- Basic sentence patterns（基本句型）.
-- Particles は、が、を、に、へ、で、と、も、から、まで.
-- です／ます forms and polite questions（礼貌体与疑问句）.
-- これ／それ／あれ and この／その／あの.
-- Existence: あります／います（存在句）.
-- い-adjective and な-adjective forms（形容词变形）.
-- Verb groups and ます／て／ない／た forms（动词分类及常见活用）.
-- Time, dates, counters, location, and daily routines（时间、日期、量词、地点和日常活动）.
+**Checkpoint：** 能說明助詞的作用，並正確變化常用動詞與形容詞。
 
-**Checkpoint:** Explain why a particle is used and conjugate common verbs and adjectives without guessing.
+## Stage 3 — N5 Listening, Reading, and Output（第三階段：N5 聽讀說寫）
 
-## Stage 3 — N5 listening, reading, and output（N5 听读说写）
+- Listen to short beginner dialogues repeatedly（反覆聆聽初級短對話）。
+- Shadow one or two sentences at a time（逐句跟讀）。
+- Read short passages with furigana（閱讀附振假名的短文）。
+- Write 5–8 original sentences about daily life（用日文寫 5 至 8 個生活句子）。
+- Keep a mistake log for particles and verb forms（記錄助詞與動詞變化錯誤）。
 
-- Listen to short beginner dialogues several times.
-- Shadow one or two sentences at a time（逐句跟读）.
-- Read short passages with furigana.
-- Write 5–8 original sentences about daily life.
-- Keep a mistake log for particles and verb forms（记录助词和动词变形错误）.
+## Stage 4 — N4 Grammar（第四階段：N4 語法）
 
-## Stage 4 — N4 grammar（N4 语法）
+- Plain forms（普通形）and their use in clauses（普通形及其在子句中的用法）。
+- と思います、 と言います、でしょう、かもしれません。
+- たり～たりする、ながら、前に、後で、時。
+- ことがある、ようになる、てしまう、ておく。
+- そうです、ようです、みたいです（區分樣態、推測與傳聞）。
+- あげる、くれる、もらう（授受表現）。
+- Comparisons, reasons, conditions, and advice（比較、原因、條件與建議）。
 
-After the N5 foundation is stable, study:
+**Checkpoint：** 不只記住中文意思，也能理解接續方式與語氣差異。
 
-- Plain forms（普通形）and their use in clauses.
-- と思います、と言います、でしょう、かもしれません.
-- たり～たりする、ながら、前に、後で、時.
-- ことがある、ようになる、てしまう、ておく.
-- そうです、ようです、みたいです（区分不同推测和传闻表达）.
-- Giving and receiving: あげる、くれる、もらう.
-- Comparisons, reasons, conditions, and advice（比较、原因、条件和建议）.
+## Stage 5 — JLPT N5/N4 Practice（第五階段：N5/N4 考試練習）
 
-**Checkpoint:** Understand the connection and nuance of each pattern, not just its Chinese translation.
+- Vocabulary and kanji（詞彙與漢字）。
+- Grammar selection and sentence ordering（語法選擇與句子排序）。
+- Short reading passages（短篇閱讀）。
+- Listening for key information（聽力關鍵資訊擷取）。
+- Review every incorrect answer and record the reason（每道錯題都記錄錯誤原因）。
 
-## Stage 5 — JLPT N5/N4 practice（N5/N4 考试练习）
+## Suggested Weekly Routine（每週建議安排）
 
-- Vocabulary and kanji（词汇与汉字）.
-- Grammar selection and sentence ordering（语法选择与句子排序）.
-- Short reading passages（短篇阅读）.
-- Listening for key information（抓取听力关键信息）.
-- Review incorrect answers and write the reason for each mistake（每道错题都写出错误原因）.
-
-## Suggested weekly routine（每周安排）
-
-| Activity（学习内容） | Suggested time（建议时间） |
+| Activity（學習內容） | Suggested time（建議時間） |
 |---|---:|
-| Vocabulary and kanji（词汇与汉字） | 3 sessions × 20 min |
-| Grammar and textbook（语法与教材） | 3 sessions × 30 min |
-| Listening and shadowing（听力与跟读） | 4 sessions × 15 min |
-| Reading and writing（阅读与写作） | 2 sessions × 25 min |
-| Review and quiz（复习与测试） | 1 session × 45 min |
+| Vocabulary and kanji（詞彙與漢字） | 每週 3 次，每次 20 分鐘 |
+| Grammar and textbook（語法與教材） | 每週 3 次，每次 30 分鐘 |
+| Listening and shadowing（聽力與跟讀） | 每週 4 次，每次 15 分鐘 |
+| Reading and writing（閱讀與寫作） | 每週 2 次，每次 25 分鐘 |
+| Review and quiz（複習與測驗） | 每週 1 次，45 分鐘 |
 
-## Progress record（学习记录）
+## Progress Record（學習紀錄）
 
-For every completed unit, record: date, textbook lesson, grammar patterns learned, vocabulary count, listening material, quiz score, and unresolved questions.
-每完成一个单元，记录日期、教材课次、语法点、词汇数量、听力材料、练习成绩和未解决的问题。
+每完成一個單元，記錄日期、教材課次、已學語法、詞彙數量、聽力材料、測驗成績與尚未解決的問題。
 
-See [SOURCES.md](SOURCES.md) for original learning resources（原始资料来源）.
+See [SOURCES.md](SOURCES.md) for original resources（原始資料來源）。
