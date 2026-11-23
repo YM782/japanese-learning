@@ -61,4 +61,4 @@
 
 本倉庫用於整理原創學習筆記與第三方資料索引，不代表擁有外部教材或課程的版權。請勿複製整本付費教材、答案冊或受著作權保護的課程內容；整理時請撰寫自己的說明並標註來源。
 
-Start with [STUDY-ROADMAP.md](STUDY-ROADMAP.md)（學習路線） and [SOURCES.md](SOURCES.md)（資料來源）。
+Start with [COURSE-INDEX.md](COURSE-INDEX.md)（課程索引），再閱讀 [STUDY-ROADMAP.md](STUDY-ROADMAP.md)（學習路線）與 [SOURCES.md](SOURCES.md)（資料來源）。
